@@ -1,0 +1,18 @@
+[IBM_WATSON_SERVICES]
+# Configuración de SPEECH_TO_TEXT
+SPEECH_TO_TEXT_APIKEY=<speech to text apikey>
+SPEECH_TO_TEXT_IAM_APIKEY=<speech to text apikey>
+SPEECH_TO_TEXT_URL=https:<speech to text url>
+SPEECH_TO_TEXT_AUTH_TYPE=iam
+
+# Configuración de LANGUAGE_TRANSLATOR
+LANGUAGE_TRANSLATOR_APIKEY=<translator apikey>
+LANGUAGE_TRANSLATOR_IAM_APIKEY=<translator apikey>
+LANGUAGE_TRANSLATOR_URL=<translator url>
+LANGUAGE_TRANSLATOR_AUTH_TYPE=iam
+
+# Configuración de TEXT_TO_SPEECH_APIKEY
+TEXT_TO_SPEECH_APIKEY=<text to speech apikey>
+TEXT_TO_SPEECH_IAM_APIKEY=<text to speech apikey>
+TEXT_TO_SPEECH_URL=https:<text to speech url>
+TEXT_TO_SPEECH_AUTH_TYPE=iam
